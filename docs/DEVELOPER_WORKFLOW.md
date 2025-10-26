@@ -86,7 +86,6 @@ git checkout -b feature/short-description
 - At least 1 approval
 - All conversations resolved
 - Passing status checks (if configured)
-- Optional deployment validation (if CI/CD is set up)
 
 **Purpose:**
 - `main` represents the latest stable release version of the project.
