@@ -17,7 +17,7 @@ Here are some of the key repositories under MachCore:
 
 |Project|Description|
 |---|---|
-|[**jmcore**](https://github.com/machcore/jmcore)|A low-level utility framework for advanced Minecraft server development.|
+|[**jmcore**](https://github.com/machcore/jmcore)|A low-level utility framework for advanced game-like server development.|
 |_(More coming soon)_||
 
 ---
