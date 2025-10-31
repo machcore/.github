@@ -1,0 +1,79 @@
+# 🧩 Pull Request Template
+
+Thank you for contributing to a MachCore project! 🎮  
+Please complete the sections below to help us review your pull request efficiently.
+
+---
+
+## 📋 Summary
+
+**Describe what this pull request does and why it’s needed.**  
+_Example: Adds a new animation utility for display entities._
+
+---
+
+## 🔍 Related Issues
+
+Link any related issues using keywords like `Fixes #123` or `Closes #456`.
+
+---
+
+## 🧱 Type of Change
+
+Select all that apply:
+
+- [ ] 🐛 Bug fix  
+- [ ] ✨ New feature  
+- [ ] 🧰 Code improvement / refactor  
+- [ ] 📖 Documentation update  
+- [ ] ⚙️ Build / configuration change  
+- [ ] 🚀 Performance improvement  
+- [ ] 🔒 Security fix  
+
+---
+
+## 🧪 Testing
+
+**Describe how you tested your changes.**  
+_Example: Verified behavior in-game on Paper 1.22.6, confirmed no console errors._
+
+---
+
+## ⚙️ Branch & Merge Details
+
+- **Source branch:** (e.g., `feature/your-feature`, `hotfix/fix-issue`)  
+- **Target branch:** (e.g., `develop`, `main`)  
+- Ensure your branch is **up to date** with the target branch before requesting a merge.
+- If this PR depends on other work, mention it here.
+
+---
+
+## 💬 Reviewer Notes
+
+**Anything reviewers should know before merging?**  
+_Example: Requires `core-utils` module update or configuration file change._
+
+---
+
+## ✅ Checklist
+
+Please confirm the following before submission:
+
+- [ ] My code builds and runs without errors.  
+- [ ] I’ve reviewed my changes for clarity and consistency.  
+- [ ] I’ve updated or added documentation/comments where necessary.  
+- [ ] I’ve tested my changes in-game or with relevant systems.  
+- [ ] This PR follows the [Contributor Workflow](../docs/CONTRIBUTOR_WORKFLOW.md) or [Developer Workflow](../docs/DEVELOPER_WORKFLOW.md).  
+- [ ] All conversations and checks will be resolved before merging.  
+
+---
+
+### ⚙️ Notes for Maintainers
+
+Pull requests into:
+- `develop` should originate from **feature/** branches.  
+- `main` should originate from **develop** or **hotfix/** branches.
+
+---
+
+**Thank you for helping build better tools and experiences with MachCore! ⚙️**
